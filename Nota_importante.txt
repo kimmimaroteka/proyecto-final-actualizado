@@ -1,0 +1,3 @@
+Si al momento de intentar trabajar con los datos en el archivo .pkl directamente y muestra un error, en esta carpeta hay una aplicación seguimiento_gastos.py, este script proporcionado igualmente ya incluye la funcionalidad para cargar y guardar estos datos. Simplemente ejecuta seguimiento_gastos.py para interactuar con los datos de forma adecuada.
+
+De lo contrario ejecutar el script "verificar_datos.py" de lo contrario.
